@@ -1,4 +1,4 @@
-# 👩🏻‍💻 André Dhiogo
+# 👩 André Dhiogo
 
 **`Desenvolvedor FullStack`**
 Desenvolvedor FullStack em Ruby On Rails, entusiasta DevOps com estudos em OpenShift.
