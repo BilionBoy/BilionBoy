@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 Desenvolvedor FullStack em Ruby On Rails, entusiasta DevOps com estudos em OpenShift.
 
-Me chamo André Dhiogo de Aguiar Muiva, Desenvolvedor Fullstack. moro em Porto Velho -  Rondôni. 
+Me chamo André Dhiogo de Aguiar Muiva, Desenvolvedor Fullstack. moro em Porto Velho -  Rondônia 
 
 
 
