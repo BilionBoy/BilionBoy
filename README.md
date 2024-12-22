@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 Desenvolvedor FullStack em Ruby On Rails, entusiasta DevOps com estudos em OpenShift.
 
-Me chamo André Dhiogo de Aguiar Muiva, tenho 19 anos, moro em Porto Velho -  Rondônia, estou cursando Sistemas de Informação na faculdade UniSapiens. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[mini DevOps][(https://www.youtube.com/@thelonious7908)]", onde ensino a criar projetos web. 
+Me chamo André Dhiogo de Aguiar Muiva, Desenvolvedor Fullstack. moro em Porto Velho -  Rondôni. 
 
 
 
