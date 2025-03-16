@@ -27,10 +27,5 @@
 
 ---
 
-### 📊 Estatísticas  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BilionBoy&layout=compact&theme=dracula)
-
----
-
 🔗 **Contato:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/**[seu-linkedin](https://www.linkedin.com/in/andr%C3%A9-dhiogo-de-aguiar-muiva-96838b260/)**)  
