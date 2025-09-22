@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack | Ruby on Rails & DevOps`**  
 
-🚀 Desenvolvedor FullStack especializado em **Ruby on Rails** e **C#**, apaixonado por DevOps. Sempre buscando aprimorar a performance e escalabilidade de aplicações web.  
+🚀 Desenvolvedor FullStack especializado em **Ruby on Rails** e **C#**, apaixonado por DevOps.  
 
 📍 Porto Velho - Rondônia  
 
